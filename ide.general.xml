@@ -1,0 +1,5 @@
+<application>
+  <component name="GeneralSettings">
+    <option name="browserPath" value="/usr/bin/chromium-browser" />
+  </component>
+</application>
